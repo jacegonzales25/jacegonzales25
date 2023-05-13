@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **Web Development with MERN Stack**
+- 🌱 I’m currently learning **Full Stack Web Development and Python**
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for help with **Internships and Jobs**
+- 📫 How to reach me: Facebook: **jacegonzales25**
+
 <!--
 **jacegonzales25/jacegonzales25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
