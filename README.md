@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Web Development with MERN Stack**
+- 🔭 I’m currently working on **Web Development with TypeScript**
 - 🌱 I’m currently learning **Full Stack Web Development and Python**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Internships and Jobs**
